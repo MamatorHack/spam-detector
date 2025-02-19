@@ -25,6 +25,5 @@ Après l'entraînement, allez écrire le message que vous voulez dans le fichier
 
 Vous verrez s'il est détecté comme spam ou non.
 
-📜 Licence
-Ce projet est sous licence MIT – vous pouvez l'utiliser librement. Voir le fichier LICENSE pour plus d’informations.
-
+## 📜 Licence
+Ce projet est sous licence MIT – vous pouvez l'utiliser librement. Voir le fichier **LICENSE** pour plus d’informations.
